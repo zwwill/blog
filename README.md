@@ -6,7 +6,7 @@
 - [《前端够得到的 Web 安全》](https://github.com/zwwill/blog/issues/8)
 - [《浏览器渲染引擎「内核」》](https://github.com/zwwill/blog/issues/2) 
 - [《这么多前端优化点你都记得住吗？》](https://github.com/zwwill/blog/issues/1)
-- [《聊聊为什么淘宝要提出「双飞翼」布局 》](https://github.com/zwwill/blog/issues/11)
+- [《聊聊为什么淘宝要提出「双飞翼」布局 》](https://github.com/zwwill/blog/issues/11) 【新】
 
 
 ## [移动端](https://github.com/zwwill/blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E7%A7%BB%E5%8A%A8%E7%AB%AF)
