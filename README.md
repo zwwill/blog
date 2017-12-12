@@ -24,4 +24,9 @@
 ## [书籍分享](https://github.com/zwwill/blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB)
 
 - [《【好书分享】「CSS揭秘」PDF》](https://github.com/zwwill/blog/issues/10)
+
+## [翻译](https://github.com/zwwill/blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E7%BF%BB%E8%AF%91)
+
+- [《【译】Ant Design 3.0 驾到》](https://github.com/zwwill/blog/issues/16)
+
     
