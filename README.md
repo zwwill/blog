@@ -30,7 +30,7 @@
 - [《【译】Ant Design 3.0 驾到》](https://github.com/zwwill/blog/issues/16)
 - [《【译】State of Vue.js report 2017 中文版》](https://juejin.im/post/5a138fae5188254d28732899)
 - [《【译】针对 Airbnb 清单页的 React 性能优化》](https://github.com/zwwill/blog/issues/18)
-- [《【译】开启你的开源生涯》](https://github.com/zwwill/blog/issues/19)
+- [《【译】「开源」其实很容易》](https://github.com/zwwill/blog/issues/19)
 
 
 ## [书籍分享](https://github.com/zwwill/blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB)
