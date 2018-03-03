@@ -33,9 +33,5 @@
 - [《【译】「开源」其实很容易》](https://github.com/zwwill/blog/issues/19)
 
 
-## [书籍分享](https://github.com/zwwill/blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB)
-
-- [《【好书分享】「CSS揭秘」PDF》](https://github.com/zwwill/blog/issues/10)
-
 
     
