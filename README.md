@@ -24,7 +24,7 @@
 - [《纯 Weex 开发一个小游戏》](https://github.com/zwwill/blog/issues/4)
 - [《Weex 快速创建工程 Hello World 》](https://github.com/zwwill/blog/issues/5)
 - [《【解决】Environment variable $ANDROID_HOME not found 》](https://github.com/zwwill/blog/issues/17)
-- [《Weex BindingX 尝鲜》](https://github.com/zwwill/blog/issues/20)
+- [《Weex BindingX 尝鲜》](https://github.com/zwwill/blog/issues/20) 【new】
 
 ## [翻译](https://github.com/zwwill/blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E7%BF%BB%E8%AF%91)
 
