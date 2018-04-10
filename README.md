@@ -24,7 +24,7 @@
 - [《纯 Weex 开发一个小游戏》](https://github.com/zwwill/blog/issues/4)
 - [《Weex 快速创建工程 Hello World 》](https://github.com/zwwill/blog/issues/5)
 - [《【解决】Environment variable $ANDROID_HOME not found 》](https://github.com/zwwill/blog/issues/17)
-- [《Weex BindingX 尝鲜》](https://github.com/zwwill/blog/issues/20) 【new】
+- [《Weex BindingX 尝鲜》](https://github.com/zwwill/blog/issues/20)
 
 ## [翻译](https://github.com/zwwill/blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E7%BF%BB%E8%AF%91)
 
@@ -32,6 +32,7 @@
 - [《【译】State of Vue.js report 2017 中文版》](https://juejin.im/post/5a138fae5188254d28732899)
 - [《【译】针对 Airbnb 清单页的 React 性能优化》](https://github.com/zwwill/blog/issues/18)
 - [《【译】「开源」其实很容易》](https://github.com/zwwill/blog/issues/19)
+- [《译】关于 SPA，你需要掌握的 4 层》](https://github.com/zwwill/blog/issues/21) 【new】
 
 
 
