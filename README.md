@@ -32,7 +32,7 @@
 - [《【译】State of Vue.js report 2017 中文版》](https://juejin.im/post/5a138fae5188254d28732899)
 - [《【译】针对 Airbnb 清单页的 React 性能优化》](https://github.com/zwwill/blog/issues/18)
 - [《【译】「开源」其实很容易》](https://github.com/zwwill/blog/issues/19)
-- [《【译】关于 SPA，你需要掌握的 4 层》](https://github.com/zwwill/blog/issues/21) 【new】
+- [《【译】关于 SPA，你需要掌握的 4 层》](https://github.com/zwwill/blog/issues/21)
 
 
 
