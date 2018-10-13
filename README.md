@@ -2,6 +2,7 @@
 
 ## [前端](https://github.com/zwwill/blog/labels/%E5%89%8D%E7%AB%AF) 
 
+- [《基于 cookie 的 node 中间层灰度流程的一些思考》](https://github.com/zwwill/blog/issues/25) 【new】
 - [《我在同步 ajax 的 cookie 上栽了个"无语"的跟头》](https://github.com/zwwill/blog/issues/6)
 - [《前端够得到的 Web 安全》](https://github.com/zwwill/blog/issues/8)
 - [《浏览器渲染引擎「内核」》](https://github.com/zwwill/blog/issues/2) 
