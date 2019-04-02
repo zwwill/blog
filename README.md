@@ -2,6 +2,7 @@
 
 ## [前端](https://github.com/zwwill/blog/labels/%E5%89%8D%E7%AB%AF) 
 
+- [《性能监控》](https://github.com/zwwill/blog/issues/31)【new】
 - [《利用「占位块」弥补 space-between 的不足》](https://github.com/zwwill/blog/issues/28)
 - [《基于 cookie 的 node 中间层灰度流程的一些思考》](https://github.com/zwwill/blog/issues/25)
 - [《我在同步 ajax 的 cookie 上栽了个"无语"的跟头》](https://github.com/zwwill/blog/issues/6)
@@ -16,7 +17,7 @@
 
 ## [移动端](https://github.com/zwwill/blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E7%A7%BB%E5%8A%A8%E7%AB%AF)
 
-- [《vue 项目快速输出微信、支付宝、百度小程序》](https://github.com/zwwill/blog/issues/29)【new】
+- [《vue 项目快速输出微信、支付宝、百度小程序》](https://github.com/zwwill/blog/issues/29)
 - [《浅谈 Native、Web App、Hybrid、ReactNative 和 WEEX 的优劣》](https://github.com/zwwill/blog/issues/7)
 - [《ReactNative 快速入门笔记》](https://github.com/zwwill/blog/issues/9)
 
