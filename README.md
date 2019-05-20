@@ -2,7 +2,7 @@
 
 ## [前端](https://github.com/zwwill/blog/labels/%E5%89%8D%E7%AB%AF) 
 
-- [《性能指标-FMP》](https://github.com/zwwill/blog/issues/32)【new】
+- [《性能指标-FMP》](https://github.com/zwwill/blog/issues/32)
 - [《性能监控》](https://github.com/zwwill/blog/issues/31)
 - [《利用「占位块」弥补 space-between 的不足》](https://github.com/zwwill/blog/issues/28)
 - [《基于 cookie 的 node 中间层灰度流程的一些思考》](https://github.com/zwwill/blog/issues/25)
