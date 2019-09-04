@@ -3,6 +3,7 @@
 ## [前端](https://github.com/zwwill/blog/labels/%E5%89%8D%E7%AB%AF) 
 
 - [《PWA 知不知》](https://github.com/zwwill/blog/issues/33)
+- [《权重 FMP 到底是怎么算出的》【new】](https://github.com/zwwill/blog/issues/34)
 - [《性能指标-FMP》](https://github.com/zwwill/blog/issues/32)
 - [《性能监控》](https://github.com/zwwill/blog/issues/31)
 - [《利用「占位块」弥补 space-between 的不足》](https://github.com/zwwill/blog/issues/28)
